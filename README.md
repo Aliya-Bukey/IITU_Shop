@@ -1,0 +1,2 @@
+# IITU_Shop
+Hello. This is group ISNS-1903 (Aliya and Anuar). This is our function. We changed the project because we could not cope with our past project. We apologize for the inconvenience. Our new project is dedicated to IIT University. If it's very simple, it's our university's online shop. It sells tickets to various events and merchandise. There are functions to add, delete, modify, roles (admin, user), as well as the program reads purchases. This is not the final program.
